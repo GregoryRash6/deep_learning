@@ -1,0 +1,13 @@
+Q: Which model has a lower loss?
+
+A: The closing prices model has lower loss. 
+
+
+Q: Which model tracks the actual values better over time?
+
+A: The closing prices model tracks the actual values better over time.
+
+
+Q: Which window size works best for the model?
+
+A: A window size of 1 works the best for the model. 
